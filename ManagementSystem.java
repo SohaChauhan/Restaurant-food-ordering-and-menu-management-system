@@ -186,7 +186,7 @@ class Restaurant {
     }
 }
 
-public class assignment2 {
+public class ManagementSystem {
     public static void main(String[] args) {
         AuthSystem authSystem = new AuthSystem();
         Restaurant restaurant = new Restaurant();
